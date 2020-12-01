@@ -1,5 +1,5 @@
 |               Input                 |                                      Process                                        |                                 Output                            |
-| :---                                |                                       :---                                          |                                  :---                             |
+| ----------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | - keys from dictionary 'commands'   | - read the dictioanry 'key_password'                                                | - display username                                                |
 | - keys from dictionary 'choices'    | - read the dictionary 'choices'                                                     | - display password with random letters                            |
 | - password length                   | - read the dictionary 'command'                                                     | - display password with random letters and number                 |
