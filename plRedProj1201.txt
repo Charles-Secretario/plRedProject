@@ -1,0 +1,15 @@
+Transcirpt
+
+Discussion
+- Secretario will do the 'process' part of the program
+- Bejar will do the 'input' part of the program
+- Create an IPO that is like the given from DE2
+- 'process' is done
+- 'output' is done
+- 'input' is also done
+
+Problems
+- Chuapoco has the IPO but he is absent.
+
+Solutions
+- Bejar and Secretario will be doing the IPO
