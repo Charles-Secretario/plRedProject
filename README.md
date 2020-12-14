@@ -5,3 +5,5 @@ Features: Users can choose how long the password would be and it will contain le
 Leader: Marcuz Chuapoco,
 Rapporteur: Charles Secretario,
 Member: James Bejar
+
+Youtube video link of the program DEMO and explanation: https://youtu.be/ir1AdUavmBU
