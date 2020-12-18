@@ -6,4 +6,4 @@ Leader: Marcuz Chuapoco,
 Rapporteur: Charles Secretario,
 Member: James Bejar
 
-Youtube video link of the program DEMO and explanation: https://youtu.be/ir1AdUavmBU
+Youtube video link of the program DEMO and explanation: https://www.youtube.com/watch?v=XbXatjwCSnI&feature=youtu.be
